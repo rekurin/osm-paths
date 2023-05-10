@@ -141,7 +141,9 @@ def dijkstrasEdger(G, start, edger):
     
     return prev#, edger
 
-
+def duplicatePath(path, edger):
+    print(path)
+    #function will double everything in edger on the path
 
 startr = 9336135422
 #res = dijkstras(H, start = 9336135422)
