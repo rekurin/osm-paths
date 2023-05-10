@@ -141,8 +141,16 @@ def dijkstrasEdger(G, start, edger):
     
     return prev#, edger
 
-def duplicatePath(path, edger):
+def doublePath(path, edger):
     print(path)
+    for i in range(0, len(path)-1):
+        print(edger[path[i]])
+        new_length = edger[path[i]][path[i+1]]*2
+        edger[path[i]][path[i+1]] = new_length
+        edger[path[i+1]][path[i]] = new_length
+    #path is a list of nodes
+    #edger is a 2d array of nodes (both ways)
+
     #function will double everything in edger on the path
 
 startr = 9336135422
@@ -155,11 +163,19 @@ res = dijkstrasEdger(H, start = 9336135422, edger=edger)
 #H.nodes()[9336135422])
 #point = res[65502013] #arbitrary end point
 #point = res[272272951] #broken
-point = res[4379447067]
+
+arbitrary_end = 4379447067
 
 backwards = []
 
-backwards.append(4379447067)
+backwards.append(arbitrary_end) #Why does this not work?
+
+point = res[arbitrary_end]
+
+
+
+backwards.append(point) #nvm forgot to append point (not done later)
+
 #p1 = res[point]
 #p2 = res[p1]
 #p3 = res[p2]
@@ -172,8 +188,12 @@ while point != startr:
     point = new_point
 print(backwards)
 
+print("#############")
+print(edger)
+doublePath(backwards, edger)
 #save path later #EDIT DONE
-
+print("#############")
+print(edger)
 #make paths and then double the edges in between's length
 
 
