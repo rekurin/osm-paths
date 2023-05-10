@@ -173,7 +173,6 @@ backwards.append(arbitrary_end) #Why does this not work?
 point = res[arbitrary_end]
 
 
-
 backwards.append(point) #nvm forgot to append point (not done later)
 
 #p1 = res[point]
@@ -198,3 +197,6 @@ print(edger)
 
 
 #Seperate edger-> make it param and return it outside to save to repass in
+
+
+##USE PICKLE LATER TO SAVE GRAPH CACHE- SAVE SCC's GRAPH
