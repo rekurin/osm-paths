@@ -13,13 +13,13 @@ ox.__version__
 # download the street network for Piedmont, CA
 #G = ox.graph_from_place("Cupertino, California, USA", network_type="drive")
 G = 0
-if not os.path.isfile('Graph.pkl'):
+if not os.path.isfile('Graph.pkl') or os.path.getsize('Graph.pkl')==0:
     G = ox.graph_from_place("Sunnyvale, California, USA", network_type="drive")
     with open('Graph.pkl', 'wb') as file:
         print("dumping...")
         # A new file will be created
         pickle.dump(G, file)
-with open('Graph.pkl', 'wb') as file:
+with open('Graph.pkl', 'rb') as file:
     print("Dumped. opening..")
     G = pickle.load(file)
 
@@ -93,8 +93,8 @@ def dijkstras(G, start):
                 prev[n2] = n1
         unvisited.remove(min_node)
 
-    for n in dist:
-        print(f"n={n}, prev={prev[n]}, dist={dist[n]}")
+    #for n in dist:
+        #print(f"n={n}, prev={prev[n]}, dist={dist[n]}")
     
     return prev
 def computeEdger(G):
@@ -112,6 +112,10 @@ def computeEdger(G):
             if n1 not in edger:
                 edger[n1] = {}
             edger[n1][n2] = path
+            #copy5-17-22
+            if n2 not in edger:
+                edger[n2] = {}
+            edger[n2][n1] = path
     return edger
 
 def dijkstrasEdger(G, start, edger):
@@ -159,7 +163,8 @@ def dijkstrasEdger(G, start, edger):
 def doublePath(path, edger):
     print(path)
     for i in range(0, len(path)-1):
-        print(edger[path[i]])
+        #print(edger[path[i]])
+        print(path[i], path[i+1])
         new_length = edger[path[i]][path[i+1]]*2
         edger[path[i]][path[i+1]] = new_length
         edger[path[i+1]][path[i]] = new_length
@@ -168,10 +173,10 @@ def doublePath(path, edger):
 
     #function will double everything in edger on the path
 
-startr = 9336135422
+startr = 5104321608#9336135422
 #res = dijkstras(H, start = 9336135422)
 edger = computeEdger(H)
-res = dijkstrasEdger(H, start = 9336135422, edger=edger)
+res = dijkstrasEdger(H, start = 5104321608, edger=edger)
 #res = resarr[0]
 #edger_prev = resarr[1] ##edger version
 
@@ -179,7 +184,7 @@ res = dijkstrasEdger(H, start = 9336135422, edger=edger)
 #point = res[65502013] #arbitrary end point
 #point = res[272272951] #broken
 
-arbitrary_end = 4379447067
+arbitrary_end = 2460823065#4379447067
 
 backwards = []
 
@@ -204,10 +209,11 @@ print(backwards)
 
 print("#############")
 print(edger)
+#doublePath(backwards, edger)
 doublePath(backwards, edger)
 #save path later #EDIT DONE
 print("#############")
-print(edger)
+#print(edger)
 #make paths and then double the edges in between's length
 
 
