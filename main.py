@@ -3,14 +3,29 @@ import networkx as nx
 import osmnx as ox
 from IPython.display import IFrame
 import math
+import os
+import pickle
 
 #%matplotlib inline
 ox.__version__
 
 
 # download the street network for Piedmont, CA
-G = ox.graph_from_place("Cupertino, California, USA", network_type="drive")
+#G = ox.graph_from_place("Cupertino, California, USA", network_type="drive")
+G = 0
+if not os.path.isfile('Graph.pkl'):
+    G = ox.graph_from_place("Sunnyvale, California, USA", network_type="drive")
+    with open('Graph.pkl', 'wb') as file:
+        print("dumping...")
+        # A new file will be created
+        pickle.dump(G, file)
+with open('Graph.pkl', 'wb') as file:
+    print("Dumped. opening..")
+    G = pickle.load(file)
 
+
+#G = pickle.loads('Graph.pkl', 'wb')
+    
 # # plot the street network with ???folium???
 #m1 = ox.plot_graph_folium(G, popup_attribute="name", weight=2, color="#8b0000")
 
