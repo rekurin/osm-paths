@@ -6,6 +6,7 @@ import math
 import os
 import pickle
 from datetime import datetime
+import collections
 
 #%matplotlib inline
 ox.__version__
@@ -175,6 +176,16 @@ def doublePath(path, edger):
     #function will double everything in edger on the path
 #startcoords = 37.337529, -122.050036
 
+def infPath(path, edger):
+    #print(path)
+    for i in range(0, len(path)-1):
+        #print(edger[path[i]])
+        #print(path[i], path[i+1])
+        new_length = 2147483647/10
+        edger[path[i]][path[i+1]] = new_length
+        edger[path[i+1]][path[i]] = new_length
+
+
 def findClosestKey(G, x, y) :
     shortestdist = infinity
     closestKey = -1
@@ -218,8 +229,8 @@ edger = computeEdger(H)
 crossed = []
 
 
-textfile = open("result"+str(datetime.today().strftime('%Y-%m-%d'))+ ".txt", 'w')
-
+textfile = open("result"+str(datetime.today().strftime('%Y-%m-%d_%H_%M_%S'))+ ".txt", 'w')
+pathed = []
 while (len(crossed) < len(H.nodes())):
     res = dijkstrasEdger(H, start=startr, edger=edger)
 
@@ -236,11 +247,35 @@ while (len(crossed) < len(H.nodes())):
         point = new_point
     
     print("backwardspath:", backwards)
-    doublePath(backwards, edger)
+    #doublePath(backwards, edger)
+    infPath(backwards, edger)
     res = backwards
     res.reverse()
+    
     for key in res:
-        crossed.append(key)
+        if key not in crossed: 
+            crossed.append(key)
+    
+    flag = 0
+    for elem in pathed:
+        if collections.Counter(elem) == collections.Counter(res) :
+            flag = 1
+     
+    # Check whether list exists or not.   
+    if flag == 0:
+        for key in res:
+            textfile.write(f'{key},')
+        textfile.write('\n')
+        pathed.append(res)
+    else:
+        print("DUPE")
+        
+
+
+    #for key in res:
+    #    textfile.write(f'{key},')
+    #textfile.write('\n')
+    
 
     #print("#############")
 textfile.close()
