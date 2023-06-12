@@ -7,7 +7,9 @@ import os
 import pickle
 from datetime import datetime
 import collections
-
+import shapely
+import sys 
+print(sys.prefix)
 #%matplotlib inline
 ox.__version__
 
