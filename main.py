@@ -266,12 +266,17 @@ while (len(crossed) < len(H.nodes())):
     # Check whether list exists or not.   
     if flag == 0:
         for key in res:
-            textfile.write(f'{key},')
+            #textfile.write(f'{key},')
+            #textfile.write(f'({H.nodes()[key]['x']}, {H.nodes()[key]['y']})')
+            newStr = "(" + str(H.nodes()[key]['x']) + str(H.nodes()[key]['y']) + "), "
+            textfile.write(newStr)
         textfile.write('\n')
         pathed.append(res)
     else:
         print("DUPE")
         
+
+
 
 
     #for key in res:
@@ -281,6 +286,8 @@ while (len(crossed) < len(H.nodes())):
 
     #print("#############")
 textfile.close()
+
+# H.nodes()[curKey]['x']
 
 # #Below is copied to for loop
 # res = dijkstrasEdger(H, start=startr, edger=edger)
