@@ -1,0 +1,2565 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:ns="http://earth.google.com/kml/2.0">
+  <Folder>
+    <open>1</open><Placemark>
+      <Point>
+        <coordinates>-122.0461229, 37.3375198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500071, 37.3375192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0461229, 37.3375198,0-122.0500071, 37.3375192</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0442751, 37.3375265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0461229, 37.3375198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0442751, 37.3375265,0-122.0461229, 37.3375198</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0431533, 37.3375341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0442751, 37.3375265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0431533, 37.3375341,0-122.0442751, 37.3375265</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0431533, 37.3375341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3375356,0-122.0431533, 37.3375341</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0500215, 37.3410729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500071, 37.3375192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0500215, 37.3410729,0-122.0500071, 37.3375192</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0479442, 37.341532</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500215, 37.3410729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0479442, 37.341532,0-122.0500215, 37.3410729</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0470996, 37.3424971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0479442, 37.341532</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0470996, 37.3424971,0-122.0479442, 37.341532</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0461028, 37.3440547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0470996, 37.3424971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0461028, 37.3440547,0-122.0470996, 37.3424971</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0451522, 37.3440486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0461028, 37.3440547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0451522, 37.3440486,0-122.0461028, 37.3440547</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0451292, 37.3448285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0451522, 37.3440486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0451292, 37.3448285,0-122.0451522, 37.3440486</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0433938, 37.3448295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0451292, 37.3448285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0433938, 37.3448295,0-122.0451292, 37.3448285</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0415195, 37.3448307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0433938, 37.3448295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0415195, 37.3448307,0-122.0433938, 37.3448295</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0415168, 37.343015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0415195, 37.3448307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0415168, 37.343015,0-122.0415195, 37.3448307</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0415184, 37.3422145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0415168, 37.343015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0415184, 37.3422145,0-122.0415168, 37.343015</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3405507</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0415184, 37.3422145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3405507,0-122.0415184, 37.3422145</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3405507</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3375356,0-122.041455, 37.3405507</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0511054, 37.3375257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500071, 37.3375192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0511054, 37.3375257,0-122.0500071, 37.3375192</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0511079, 37.3410707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0511054, 37.3375257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0511079, 37.3410707,0-122.0511054, 37.3375257</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0500215, 37.3410729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0511079, 37.3410707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0500215, 37.3410729,0-122.0511079, 37.3410707</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.050006, 37.3448251</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500215, 37.3410729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.050006, 37.3448251,0-122.0500215, 37.3410729</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0489717, 37.3448258</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.050006, 37.3448251</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0489717, 37.3448258,0-122.050006, 37.3448251</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0480139, 37.3448259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0489717, 37.3448258</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0480139, 37.3448259,0-122.0489717, 37.3448258</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0480241, 37.345577</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0480139, 37.3448259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0480241, 37.345577,0-122.0480139, 37.3448259</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0464501, 37.3463752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0480241, 37.345577</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0464501, 37.3463752,0-122.0480241, 37.345577</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0464448, 37.3471768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0464501, 37.3463752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0464448, 37.3471768,0-122.0464501, 37.3463752</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0459678, 37.3471692</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0464448, 37.3471768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0459678, 37.3471692,0-122.0464448, 37.3471768</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0443754, 37.3474401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0459678, 37.3471692</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0443754, 37.3474401,0-122.0459678, 37.3471692</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0444894, 37.3481973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0443754, 37.3474401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0444894, 37.3481973,0-122.0443754, 37.3474401</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0424947, 37.3482049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0444894, 37.3481973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0424947, 37.3482049,0-122.0444894, 37.3481973</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0415161, 37.3482067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0424947, 37.3482049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0415161, 37.3482067,0-122.0424947, 37.3482049</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0406859, 37.3482299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0415161, 37.3482067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0406859, 37.3482299,0-122.0415161, 37.3482067</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0405928, 37.3466577</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0406859, 37.3482299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0405928, 37.3466577,0-122.0406859, 37.3482299</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0396268, 37.3466599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0405928, 37.3466577</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0396268, 37.3466599,0-122.0405928, 37.3466577</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0385805, 37.3466624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0396268, 37.3466599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0385805, 37.3466624,0-122.0396268, 37.3466599</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0374375, 37.3466651</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0385805, 37.3466624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0374375, 37.3466651,0-122.0385805, 37.3466624</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0374992, 37.3444803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0374375, 37.3466651</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0374992, 37.3444803,0-122.0374375, 37.3466651</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0362477, 37.3437501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0374992, 37.3444803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0362477, 37.3437501,0-122.0374992, 37.3444803</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0362497, 37.3430155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0362477, 37.3437501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0362497, 37.3430155,0-122.0362477, 37.3437501</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.035042, 37.3430157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0362497, 37.3430155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.035042, 37.3430157,0-122.0362497, 37.3430155</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0335877, 37.3399486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.035042, 37.3430157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0335877, 37.3399486,0-122.035042, 37.3430157</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0375592, 37.3407418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0335877, 37.3399486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0375592, 37.3407418,0-122.0335877, 37.3399486</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0374159, 37.3391756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0375592, 37.3407418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0374159, 37.3391756,0-122.0375592, 37.3407418</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0397866, 37.3383905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0374159, 37.3391756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0397866, 37.3383905,0-122.0374159, 37.3391756</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0397929, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0397866, 37.3383905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0397929, 37.3375356,0-122.0397866, 37.3383905</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0397929, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3375356,0-122.0397929, 37.3375356</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0511054, 37.3375257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500071, 37.3375192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0511054, 37.3375257,0-122.0500071, 37.3375192</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0523306, 37.3375273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0511054, 37.3375257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0523306, 37.3375273,0-122.0511054, 37.3375257</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0532685, 37.3375201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0523306, 37.3375273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0532685, 37.3375201,0-122.0523306, 37.3375273</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0549979, 37.3375181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0532685, 37.3375201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0549979, 37.3375181,0-122.0532685, 37.3375201</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0549629, 37.3385455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0549979, 37.3375181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0549629, 37.3385455,0-122.0549979, 37.3375181</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0549646, 37.3391931</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0549629, 37.3385455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0549646, 37.3391931,0-122.0549629, 37.3385455</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0549748, 37.3411874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0549646, 37.3391931</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0549748, 37.3411874,0-122.0549646, 37.3391931</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0537524, 37.3411439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0549748, 37.3411874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0537524, 37.3411439,0-122.0549748, 37.3411874</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0537521, 37.3418906</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0537524, 37.3411439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0537521, 37.3418906,0-122.0537524, 37.3411439</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0521548, 37.3448237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0537521, 37.3418906</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0521548, 37.3448237,0-122.0537521, 37.3418906</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0510992, 37.3448226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0521548, 37.3448237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0510992, 37.3448226,0-122.0521548, 37.3448237</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.050006, 37.3448251</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0510992, 37.3448226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.050006, 37.3448251,0-122.0510992, 37.3448226</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0501979, 37.3481687</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.050006, 37.3448251</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0501979, 37.3481687,0-122.050006, 37.3448251</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0490085, 37.3481654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0501979, 37.3481687</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0490085, 37.3481654,0-122.0501979, 37.3481687</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0480603, 37.3481657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0490085, 37.3481654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0480603, 37.3481657,0-122.0490085, 37.3481654</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0470156, 37.348166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0480603, 37.3481657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0470156, 37.348166,0-122.0480603, 37.3481657</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0459711, 37.3481663</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0470156, 37.348166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0459711, 37.3481663,0-122.0470156, 37.348166</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.04596, 37.3488835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0459711, 37.3481663</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.04596, 37.3488835,0-122.0459711, 37.3481663</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0452237, 37.3500389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.04596, 37.3488835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0452237, 37.3500389,0-122.04596, 37.3488835</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0451064, 37.3508285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0452237, 37.3500389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0451064, 37.3508285,0-122.0452237, 37.3500389</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0451168, 37.3515862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0451064, 37.3508285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0451168, 37.3515862,0-122.0451064, 37.3508285</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0441679, 37.3515855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0451168, 37.3515862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0441679, 37.3515855,0-122.0451168, 37.3515862</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0441697, 37.3520499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0441679, 37.3515855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0441697, 37.3520499,0-122.0441679, 37.3515855</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0417144, 37.3520605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0441697, 37.3520499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0417144, 37.3520605,0-122.0441697, 37.3520499</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0415154, 37.3518223</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0417144, 37.3520605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0415154, 37.3518223,0-122.0417144, 37.3520605</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0415163, 37.3506622</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0415154, 37.3518223</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0415163, 37.3506622,0-122.0415154, 37.3518223</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.040511, 37.3506699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0415163, 37.3506622</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.040511, 37.3506699,0-122.0415163, 37.3506622</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0397551, 37.3499057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.040511, 37.3506699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0397551, 37.3499057,0-122.040511, 37.3506699</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.03974, 37.3491446</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0397551, 37.3499057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.03974, 37.3491446,0-122.0397551, 37.3499057</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0396822, 37.348466</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.03974, 37.3491446</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0396822, 37.348466,0-122.03974, 37.3491446</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0387276, 37.3485005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0396822, 37.348466</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0387276, 37.3485005,0-122.0396822, 37.348466</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0376436, 37.3484903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0387276, 37.3485005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0376436, 37.3484903,0-122.0387276, 37.3485005</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0365618, 37.3484991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0376436, 37.3484903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0365618, 37.3484991,0-122.0376436, 37.3484903</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0355716, 37.3485344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0365618, 37.3484991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0355716, 37.3485344,0-122.0365618, 37.3484991</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0346578, 37.3484865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0355716, 37.3485344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0346578, 37.3484865,0-122.0355716, 37.3485344</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0337474, 37.3484653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0346578, 37.3484865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0337474, 37.3484653,0-122.0346578, 37.3484865</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0337456, 37.3481185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0337474, 37.3484653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0337456, 37.3481185,0-122.0337474, 37.3484653</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0337463, 37.3477709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0337456, 37.3481185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0337463, 37.3477709,0-122.0337456, 37.3481185</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0337481, 37.3474219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0337463, 37.3477709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0337481, 37.3474219,0-122.0337463, 37.3477709</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0337495, 37.3470757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0337481, 37.3474219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0337495, 37.3470757,0-122.0337481, 37.3474219</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0337368, 37.3466571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0337495, 37.3470757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0337368, 37.3466571,0-122.0337495, 37.3470757</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324593, 37.3466529</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0337368, 37.3466571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324593, 37.3466529,0-122.0337368, 37.3466571</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324547, 37.3443488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324593, 37.3466529</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324547, 37.3443488,0-122.0324593, 37.3466529</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.03244, 37.3430159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324547, 37.3443488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.03244, 37.3430159,0-122.0324547, 37.3443488</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324248, 37.3399528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.03244, 37.3430159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324248, 37.3399528,0-122.03244, 37.3430159</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324288, 37.3376415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324248, 37.3399528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324288, 37.3376415,0-122.0324248, 37.3399528</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324299, 37.3374954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324288, 37.3376415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324299, 37.3374954,0-122.0324288, 37.3376415</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324836, 37.3350323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324299, 37.3374954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324836, 37.3350323,0-122.0324299, 37.3374954</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324862, 37.3336903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324836, 37.3350323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324862, 37.3336903,0-122.0324836, 37.3350323</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324117, 37.3318306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324862, 37.3336903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324117, 37.3318306,0-122.0324862, 37.3336903</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.034715, 37.3323334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324117, 37.3318306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.034715, 37.3323334,0-122.0324117, 37.3318306</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0368923, 37.3319896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.034715, 37.3323334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0368923, 37.3319896,0-122.034715, 37.3323334</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0404442, 37.3330048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0368923, 37.3319896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0404442, 37.3330048,0-122.0368923, 37.3319896</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0414488, 37.3330617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0404442, 37.3330048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0414488, 37.3330617,0-122.0404442, 37.3330048</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0414548, 37.3334445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0414488, 37.3330617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0414548, 37.3334445,0-122.0414488, 37.3330617</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0414548, 37.3334445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3375356,0-122.0414548, 37.3334445</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0461229, 37.3375198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500071, 37.3375192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0461229, 37.3375198,0-122.0500071, 37.3375192</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0461274, 37.3383391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0461229, 37.3375198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0461274, 37.3383391,0-122.0461229, 37.3375198</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0461315, 37.3391093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0461274, 37.3383391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0461315, 37.3391093,0-122.0461274, 37.3383391</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0462315, 37.3397245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0461315, 37.3391093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0462315, 37.3397245,0-122.0461315, 37.3391093</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0455382, 37.3401138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0462315, 37.3397245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0455382, 37.3401138,0-122.0462315, 37.3397245</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0447198, 37.3410017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0455382, 37.3401138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0447198, 37.3410017,0-122.0455382, 37.3401138</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0443784, 37.3416369</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0447198, 37.3410017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0443784, 37.3416369,0-122.0447198, 37.3410017</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0431208, 37.3414987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0443784, 37.3416369</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0431208, 37.3414987,0-122.0443784, 37.3416369</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0431586, 37.3380033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0431208, 37.3414987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0431586, 37.3380033,0-122.0431208, 37.3414987</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0431533, 37.3375341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0431586, 37.3380033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0431533, 37.3375341,0-122.0431586, 37.3380033</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0431533, 37.3375341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3375356,0-122.0431533, 37.3375341</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0511054, 37.3375257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0500071, 37.3375192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0511054, 37.3375257,0-122.0500071, 37.3375192</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0523306, 37.3375273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0511054, 37.3375257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0523306, 37.3375273,0-122.0511054, 37.3375257</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0513141, 37.3362401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0523306, 37.3375273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0513141, 37.3362401,0-122.0523306, 37.3375273</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0513088, 37.3354852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0513141, 37.3362401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0513088, 37.3354852,0-122.0513141, 37.3362401</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.052325, 37.3354825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0513088, 37.3354852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.052325, 37.3354825,0-122.0513088, 37.3354852</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.053245, 37.33548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.052325, 37.3354825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.053245, 37.33548,0-122.052325, 37.3354825</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.054098, 37.3354778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.053245, 37.33548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.054098, 37.3354778,0-122.053245, 37.33548</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0550327, 37.3354772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.054098, 37.3354778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0550327, 37.3354772,0-122.054098, 37.3354778</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0550249, 37.336746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0550327, 37.3354772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0550249, 37.336746,0-122.0550327, 37.3354772</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0549979, 37.3375181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0550249, 37.336746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0549979, 37.3375181,0-122.0550249, 37.336746</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0579895, 37.3375124</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0549979, 37.3375181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0579895, 37.3375124,0-122.0549979, 37.3375181</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0584724, 37.337511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0579895, 37.3375124</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0584724, 37.337511,0-122.0579895, 37.3375124</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0602793, 37.3375072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0584724, 37.337511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0602793, 37.3375072,0-122.0584724, 37.337511</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0605872, 37.3375117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0602793, 37.3375072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0605872, 37.3375117,0-122.0602793, 37.3375072</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0614465, 37.3375064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0605872, 37.3375117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0614465, 37.3375064,0-122.0605872, 37.3375117</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0628013, 37.3374947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0614465, 37.3375064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0628013, 37.3374947,0-122.0614465, 37.3375064</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.063708, 37.3374925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0628013, 37.3374947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.063708, 37.3374925,0-122.0628013, 37.3374947</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0645237, 37.3374851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.063708, 37.3374925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0645237, 37.3374851,0-122.063708, 37.3374925</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0649895, 37.3375328</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0645237, 37.3374851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0649895, 37.3375328,0-122.0645237, 37.3374851</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0657569, 37.3374939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0649895, 37.3375328</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0657569, 37.3374939,0-122.0649895, 37.3375328</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0665683, 37.3374894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0657569, 37.3374939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0665683, 37.3374894,0-122.0657569, 37.3374939</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.067792, 37.3380031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0665683, 37.3374894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.067792, 37.3380031,0-122.0665683, 37.3374894</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0681676, 37.3382894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.067792, 37.3380031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0681676, 37.3382894,0-122.067792, 37.3380031</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0683326, 37.3382776</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0681676, 37.3382894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0683326, 37.3382776,0-122.0681676, 37.3382894</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.068455, 37.3382327</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0683326, 37.3382776</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.068455, 37.3382327,0-122.0683326, 37.3382776</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.068654, 37.3381297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.068455, 37.3382327</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.068654, 37.3381297,0-122.068455, 37.3382327</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0687674, 37.3380473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.068654, 37.3381297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0687674, 37.3380473,0-122.068654, 37.3381297</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0686279, 37.3377691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0687674, 37.3380473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0686279, 37.3377691,0-122.0687674, 37.3380473</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0682031, 37.3356616</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0686279, 37.3377691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0682031, 37.3356616,0-122.0686279, 37.3377691</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.068687, 37.3337197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0682031, 37.3356616</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.068687, 37.3337197,0-122.0682031, 37.3356616</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0655062, 37.3339069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.068687, 37.3337197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0655062, 37.3339069,0-122.068687, 37.3337197</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0652217, 37.3339432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0655062, 37.3339069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0652217, 37.3339432,0-122.0655062, 37.3339069</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0596797, 37.3322435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0652217, 37.3339432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0596797, 37.3322435,0-122.0652217, 37.3339432</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.057124, 37.3321255</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0596797, 37.3322435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.057124, 37.3321255,0-122.0596797, 37.3322435</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0495166, 37.33364</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.057124, 37.3321255</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0495166, 37.33364,0-122.057124, 37.3321255</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.036074, 37.3342395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0495166, 37.33364</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.036074, 37.3342395,0-122.0495166, 37.33364</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324862, 37.3336903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.036074, 37.3342395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324862, 37.3336903,0-122.036074, 37.3342395</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0322002, 37.333683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324862, 37.3336903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0322002, 37.333683,0-122.0324862, 37.3336903</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0321979, 37.3350605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0322002, 37.333683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0321979, 37.3350605,0-122.0322002, 37.333683</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0322076, 37.3374958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0321979, 37.3350605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0322076, 37.3374958,0-122.0321979, 37.3350605</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0322187, 37.3376462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0322076, 37.3374958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0322187, 37.3376462,0-122.0322076, 37.3374958</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0324288, 37.3376415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0322187, 37.3376462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0324288, 37.3376415,0-122.0322187, 37.3376462</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0340948, 37.3375789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0324288, 37.3376415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0340948, 37.3375789,0-122.0324288, 37.3376415</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.034701, 37.3375789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0340948, 37.3375789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.034701, 37.3375789,0-122.0340948, 37.3375789</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0354851, 37.3375782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.034701, 37.3375789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0354851, 37.3375782,0-122.034701, 37.3375789</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0367622, 37.3375331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0354851, 37.3375782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0367622, 37.3375331,0-122.0354851, 37.3375782</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.0397929, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0367622, 37.3375331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.0397929, 37.3375356,0-122.0367622, 37.3375331</coordinates>
+      </LineString>
+    </Placemark><Placemark>
+      <Point>
+        <coordinates>-122.041455, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-122.0397929, 37.3375356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-122.041455, 37.3375356,0-122.0397929, 37.3375356</coordinates>
+      </LineString>
+    </Placemark>  </Folder>
+</kml>

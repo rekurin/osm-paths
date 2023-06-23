@@ -209,13 +209,25 @@ def findClosestKey(G, x, y) :
 
 #endy = -122.041433
 
-starty = 37.337529
+#starty = 37.337529
 
-startx = -122.050036
+#startx = -122.050036
 
-endy = 37.337504
+#37.352236, -122.047478
 
-endx = -122.041433
+starty = 37.352236
+
+startx = -122.047478
+
+#endy = 37.337504
+
+#endx = -122.041433
+
+
+#37.404665, -122.020344
+endy = 37.404665
+
+endx = -122.020344
 #endcoords = 37.337504, -122.041433
 
 startr = findClosestKey(H, startx, starty)
@@ -249,8 +261,8 @@ while (len(crossed) < len(H.nodes())):
         point = new_point
     
     print("backwardspath:", backwards)
-    #doublePath(backwards, edger)
-    infPath(backwards, edger)
+    doublePath(backwards, edger)
+    #infPath(backwards, edger)
     res = backwards
     res.reverse()
     
@@ -268,7 +280,7 @@ while (len(crossed) < len(H.nodes())):
         for key in res:
             #textfile.write(f'{key},')
             #textfile.write(f'({H.nodes()[key]['x']}, {H.nodes()[key]['y']})')
-            newStr = "(" + str(H.nodes()[key]['x']) + str(H.nodes()[key]['y']) + "), "
+            newStr = "(" + str(H.nodes()[key]['y']) + ", " + str(H.nodes()[key]['x']) + "), "
             textfile.write(newStr)
         textfile.write('\n')
         pathed.append(res)

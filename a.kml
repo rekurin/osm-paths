@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:ns="http://earth.google.com/kml/2.0">
+  <Folder>
+    <open>1</open>
+    <Placemark>
+      <Point>
+        <coordinates>-107.980362141, 31.872060174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>-107.963280345, 31.80230482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>-107.980362141, 31.872060174,0  -107.963280345, 31.80230482,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>
